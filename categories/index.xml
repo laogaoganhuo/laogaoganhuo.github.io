@@ -6,18 +6,10 @@
     <description>Recent content in Categories on 老高干货知识分享！</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <copyright>老高干货强力驱动</copyright>
     
 	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>English</title>
-      <link>http://localhost:1313/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/english/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Syntax Highlighting</title>
@@ -29,29 +21,11 @@
     </item>
     
     <item>
-      <title>Theme Preview</title>
-      <link>http://localhost:1313/categories/theme-preview/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/theme-preview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>中文</title>
       <link>http://localhost:1313/categories/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
       <guid>http://localhost:1313/categories/%E4%B8%AD%E6%96%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日本語</title>
-      <link>http://localhost:1313/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
-      
-      <guid>http://localhost:1313/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
       <description></description>
     </item>
     
