@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>老高干货</title>
-    <link>http://localhost:1313/</link>
+    <link>https://laogaoganhuo.github.io/</link>
     <description>Recent content on 老高干货</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn_zh</language>
     <copyright>2017© 老高干货强力驱动</copyright>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laogaoganhuo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>友链</title>
-      <link>http://localhost:1313/links/</link>
+      <link>https://laogaoganhuo.github.io/links/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/links/</guid>
+      <guid>https://laogaoganhuo.github.io/links/</guid>
       <description>友链</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://laogaoganhuo.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://laogaoganhuo.github.io/about/</guid>
       <description>干货知识分享、趣闻！</description>
     </item>
     
     <item>
       <title>损人金句</title>
-      <link>http://localhost:1313/post/jinju/</link>
+      <link>https://laogaoganhuo.github.io/post/jinju/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/jinju/</guid>
+      <guid>https://laogaoganhuo.github.io/post/jinju/</guid>
       <description> 哥们儿,麻烦让下,你挡着我手机信号了
   我要让全世界都知道我很低调
   你的愚蠢总是那么富有创造力
