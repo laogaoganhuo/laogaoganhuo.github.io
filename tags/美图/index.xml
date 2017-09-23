@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>美图 on 老高干货知识分享，分享一切！</title>
+    <link>http://localhost:1313/tags/%E7%BE%8E%E5%9B%BE/</link>
+    <description>Recent content in 美图 on 老高干货知识分享，分享一切！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn_zh</language>
+    <copyright>老高干货强力驱动</copyright>
+    <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E7%BE%8E%E5%9B%BE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>损人金句</title>
+      <link>http://localhost:1313/post/chinese-preview/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/chinese-preview/</guid>
+      <description>哥们儿,麻烦让下,你挡着我手机信号了 我要让全世界都知道我很低调 你的愚蠢总是那么富有创造力 来到这世上,我就没打算活着回去! 孩子,人傻不能复生啊</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>中文 on 老高干货知识分享！</title>
+    <title>中文 on 老高干货知识分享，分享一切！</title>
     <link>http://localhost:1313/categories/%E4%B8%AD%E6%96%87/</link>
-    <description>Recent content in 中文 on 老高干货知识分享！</description>
+    <description>Recent content in 中文 on 老高干货知识分享，分享一切！</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>cn_zh</language>
     <copyright>老高干货强力驱动</copyright>
     <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate>
     
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>金句</title>
+      <title>损人金句</title>
       <link>http://localhost:1313/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       

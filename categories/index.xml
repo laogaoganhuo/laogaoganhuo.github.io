@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 老高干货知识分享！</title>
+    <title>Categories on 老高干货知识分享，分享一切！</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on 老高干货知识分享！</description>
+    <description>Recent content in Categories on 老高干货知识分享，分享一切！</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>cn_zh</language>
     <copyright>老高干货强力驱动</copyright>
     
 	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      <title>Theme Preview</title>
+      <link>http://localhost:1313/categories/theme-preview/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/syntax-highlighting/</guid>
+      <guid>http://localhost:1313/categories/theme-preview/</guid>
       <description></description>
     </item>
     

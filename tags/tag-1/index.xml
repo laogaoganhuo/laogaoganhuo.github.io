@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag 1 on 老高干货知识分享！</title>
+    <title>Tag 1 on Even - A super concise theme for Hugo</title>
     <link>http://localhost:1313/tags/tag-1/</link>
-    <description>Recent content in Tag 1 on 老高干货知识分享！</description>
+    <description>Recent content in Tag 1 on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>老高干货强力驱动</copyright>
+    <language>en</language>
     <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/tag-1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>金句</title>
+      <title>中文 《长恨歌》</title>
       <link>http://localhost:1313/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
       <guid>http://localhost:1313/post/chinese-preview/</guid>
-      <description>哥们儿,麻烦让下,你挡着我手机信号了 我要让全世界都知道我很低调 你的愚蠢总是那么富有创造力 来到这世上,我就没打算活着回去! 孩子,人傻不能复生啊</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;第一段-贵妃受宠爱&#34;&gt;第一段：贵妃受宠爱&lt;/h1&gt;
+
+&lt;p&gt;汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。&lt;/p&gt;
+
+&lt;p&gt;天生丽质难自弃，一朝选在君王侧。回眸一笑百媚生，六宫粉黛无颜色。&lt;/p&gt;
+
+&lt;p&gt;春寒赐浴华清池，温泉水滑洗凝脂。侍儿扶起娇无力，始是新承恩泽时。&lt;/p&gt;
+
+&lt;p&gt;云鬓花颜金步摇，芙蓉帐暖度春宵。春宵苦短日高起，从此君王不早朝。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

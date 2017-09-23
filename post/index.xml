@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 老高干货知识分享！</title>
+    <title>Posts on 老高干货知识分享，分享一切！</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on 老高干货知识分享！</description>
+    <description>Recent content in Posts on 老高干货知识分享，分享一切！</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>cn_zh</language>
     <copyright>老高干货强力驱动</copyright>
-    <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>金句</title>
+      <title>Theme preview</title>
+      <link>http://localhost:1313/post/even-preview/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/even-preview/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这篇文章集中说明主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些样式，可以去修改 css/ 文件夹下的 .scss 文件。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>损人金句</title>
       <link>http://localhost:1313/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
       <guid>http://localhost:1313/post/chinese-preview/</guid>
       <description>哥们儿,麻烦让下,你挡着我手机信号了 我要让全世界都知道我很低调 你的愚蠢总是那么富有创造力 来到这世上,我就没打算活着回去! 孩子,人傻不能复生啊</description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/post/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/syntax-highlighting/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
-  alert(&amp;quot;Hello, World!&amp;quot;)
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
