@@ -1,43 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 老高干货知识分享，分享一切！</title>
+    <title>Tags on 老高干货</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on 老高干货知识分享，分享一切！</description>
+    <description>Recent content in Tags on 老高干货</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn_zh</language>
-    <copyright>老高干货强力驱动</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
+    <copyright>2017© 老高干货强力驱动</copyright>
     
 	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Preview</title>
-      <link>http://localhost:1313/tags/preview/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/preview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag 3</title>
-      <link>http://localhost:1313/tags/tag-3/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/tag-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme Preview</title>
-      <link>http://localhost:1313/tags/theme-preview/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/theme-preview/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>美图</title>

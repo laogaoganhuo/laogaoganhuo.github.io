@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>中文 on 老高干货知识分享，分享一切！</title>
+    <title>中文 on 老高干货</title>
     <link>http://localhost:1313/categories/%E4%B8%AD%E6%96%87/</link>
-    <description>Recent content in 中文 on 老高干货知识分享，分享一切！</description>
+    <description>Recent content in 中文 on 老高干货</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn_zh</language>
-    <copyright>老高干货强力驱动</copyright>
+    <copyright>2017© 老高干货强力驱动</copyright>
     <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
@@ -14,11 +14,24 @@
     
     <item>
       <title>损人金句</title>
-      <link>http://localhost:1313/post/chinese-preview/</link>
+      <link>http://localhost:1313/post/jinju/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/chinese-preview/</guid>
-      <description>哥们儿,麻烦让下,你挡着我手机信号了 我要让全世界都知道我很低调 你的愚蠢总是那么富有创造力 来到这世上,我就没打算活着回去! 孩子,人傻不能复生啊</description>
+      <guid>http://localhost:1313/post/jinju/</guid>
+      <description> 哥们儿,麻烦让下,你挡着我手机信号了
+  我要让全世界都知道我很低调
+  你的愚蠢总是那么富有创造力
+  来到这世上,我就没打算活着回去!
+  孩子,人傻不能复生啊！
+  自从得了神经病,整个人都精神多了.
+  我这人不懂音乐,所以时而不靠谱,时而不着调。
+  唉~这人要是一没正形,连头痛都是偏的
+  如果你容不下我, 说明不是你的心胸太狭窄, 就是我的人格太伟大。
+  别逼我, 否则我伟大起来,一发不可收拾.
+  人和猪的区别就在于:猪一直是猪, 而人有时候却不是人。
+  没事儿晒晒太阳吧,没准儿晒黑了就没人说你是白痴了。
+  就算是一坨屎也会有遇到屎壳郎的那天。所以大可不必为你是一坨屎而感到沮丧。
+ </description>
     </item>
     
   </channel>

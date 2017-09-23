@@ -1,48 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>老高干货知识分享，分享一切！</title>
+    <title>老高干货</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 老高干货知识分享，分享一切！</description>
+    <description>Recent content on 老高干货</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn_zh</language>
-    <copyright>老高干货强力驱动</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
+    <copyright>2017© 老高干货强力驱动</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Theme preview</title>
-      <link>http://localhost:1313/post/even-preview/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      <title>友链</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/even-preview/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;这篇文章集中说明主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些样式，可以去修改 css/ 文件夹下的 .scss 文件。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/links/</guid>
+      <description>友链</description>
     </item>
     
     <item>
       <title>关于</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>知识分享、趣闻、美图！</description>
+      <description>干货知识分享、趣闻！</description>
     </item>
     
     <item>
       <title>损人金句</title>
-      <link>http://localhost:1313/post/chinese-preview/</link>
+      <link>http://localhost:1313/post/jinju/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/chinese-preview/</guid>
-      <description>哥们儿,麻烦让下,你挡着我手机信号了 我要让全世界都知道我很低调 你的愚蠢总是那么富有创造力 来到这世上,我就没打算活着回去! 孩子,人傻不能复生啊</description>
+      <guid>http://localhost:1313/post/jinju/</guid>
+      <description> 哥们儿,麻烦让下,你挡着我手机信号了
+  我要让全世界都知道我很低调
+  你的愚蠢总是那么富有创造力
+  来到这世上,我就没打算活着回去!
+  孩子,人傻不能复生啊！
+  自从得了神经病,整个人都精神多了.
+  我这人不懂音乐,所以时而不靠谱,时而不着调。
+  唉~这人要是一没正形,连头痛都是偏的
+  如果你容不下我, 说明不是你的心胸太狭窄, 就是我的人格太伟大。
+  别逼我, 否则我伟大起来,一发不可收拾.
+  人和猪的区别就在于:猪一直是猪, 而人有时候却不是人。
+  没事儿晒晒太阳吧,没准儿晒黑了就没人说你是白痴了。
+  就算是一坨屎也会有遇到屎壳郎的那天。所以大可不必为你是一坨屎而感到沮丧。
+ </description>
     </item>
     
   </channel>
