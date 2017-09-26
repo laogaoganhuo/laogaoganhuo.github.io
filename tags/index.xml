@@ -7,14 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cn_zh</language>
     <copyright>2017© 老高干货强力驱动</copyright>
+    <lastBuildDate>Tue, 26 Sep 2017 01:37:56 +0800</lastBuildDate>
     
 	<atom:link href="https://laogaoganhuo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Rdd</title>
+      <link>https://laogaoganhuo.github.io/tags/rdd/</link>
+      <pubDate>Tue, 26 Sep 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://laogaoganhuo.github.io/tags/rdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>https://laogaoganhuo.github.io/tags/spark/</link>
+      <pubDate>Tue, 26 Sep 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://laogaoganhuo.github.io/tags/spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>干货</title>
       <link>https://laogaoganhuo.github.io/tags/%E5%B9%B2%E8%B4%A7/</link>
-      <pubDate>Sun, 24 Sep 2017 01:37:56 +0800</pubDate>
+      <pubDate>Tue, 26 Sep 2017 01:37:56 +0800</pubDate>
       
       <guid>https://laogaoganhuo.github.io/tags/%E5%B9%B2%E8%B4%A7/</guid>
       <description></description>

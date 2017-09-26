@@ -31,6 +31,20 @@
     </item>
     
     <item>
+      <title>理解Spark的核心RDD</title>
+      <link>https://laogaoganhuo.github.io/post/201709/spark-core-rdd/</link>
+      <pubDate>Tue, 26 Sep 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://laogaoganhuo.github.io/post/201709/spark-core-rdd/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://laogaoganhuo.github.io/media/posts/spark-core-rdd/spark_struct.jpg&#34; alt=&#34;spark-struct&#34; title=&#34;spark_struct.jpg&#34; /&gt;
+与许多专有的大数据处理平台不同，Spark建立在统一抽象的RDD之上，使得它可以以基本一致的方式应对不同的大数据处理场景，包括MapReduce，Streaming，SQL，Machine Learning以及Graph等。这即Matei Zaharia所谓的“设计一个通用的编程抽象（Unified Programming Abstraction）。这正是Spark这朵小火花让人着迷的地方。&lt;/p&gt;
+
+&lt;p&gt;要理解Spark，就需得理解RDD。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>经济机器是如何运行的</title>
       <link>https://laogaoganhuo.github.io/post/20170924/financial/</link>
       <pubDate>Sun, 24 Sep 2017 01:37:56 +0800</pubDate>
@@ -38,6 +52,7 @@
       <guid>https://laogaoganhuo.github.io/post/20170924/financial/</guid>
       <description> [干货] 30分钟读懂经济机器是如何运行的！
  (http://v.youku.com/v_show/id_XMzA0MzY4OTcyOA==.html)
+
 
     To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
  -- </description>
